@@ -15,9 +15,16 @@ With the help of assignments and documentation, I'm getting familier with the te
 4) urls.py ( The path of vote method gets added )
 
 
+**THINGS GOT UPDATED (25.10.21)
+In our mysite application we previously had 'polls' app butu we didn't have a valid (Status code: 200) landing page. 
+Now, we have an application 'home' which is serving the landing page of our website. 
+
+
+
 Reference: 
 
 1) https://www.coursera.org/specializations/django? (Django for everybody (Coursera) )
 
 2) https://youtu.be/o0XbHvKxw7Y (Django for everybody (YouTube) )
            
+
