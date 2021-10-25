@@ -16,7 +16,7 @@ With the help of assignments and documentation, I'm getting familier with the te
 
 
 **THINGS GOT UPDATED (25.10.21)
-In our mysite application we previously had 'polls' app butu we didn't have a valid (Status code: 200) landing page. 
+In our mysite application we previously had 'polls' app but we didn't have a valid (Status code: 200) landing page. 
 Now, we have an application 'home' which is serving the landing page of our website. 
 
 
