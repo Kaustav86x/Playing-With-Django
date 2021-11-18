@@ -7,4 +7,4 @@ def myview(request):
     if num > 4 : del(request.session['num'])
     resp = HttpResponse('view count=' + str(num))
     resp.set_cookie('dj4e_cookie', '831704ea', max_age=1000)
-    return resp
+    return resp 
