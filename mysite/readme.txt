@@ -24,7 +24,17 @@ Now, we have an application 'home' which is serving the landing page of our webs
 **THINGS GOT UPDATED (8.11.21)
 * I was given an assignment.
 Assignment Statement : 
+
 https://www.dj4e.com/assn/dj4e_hello.md?PHPSESSID=c5621ea2ef6114c2156700baa84235e7 
+
+
+**THINGS GOT UPDATED(21.11.21)
+*I was given an assignment
+Assignment details : 
+
+https://www.dj4e.com/assn/dj4e_autos.md
+
+So, I'm currently working on this one !! ( It would take some time ! )
 
 
 Reference: 
