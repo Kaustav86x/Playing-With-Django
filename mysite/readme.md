@@ -53,4 +53,4 @@ Reference:
 
 2) https://youtu.be/o0XbHvKxw7Y (Django for everybody (YouTube) )
            
-
+ 
