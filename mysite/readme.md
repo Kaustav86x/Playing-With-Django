@@ -47,7 +47,9 @@ http://kaustav1.pythonanywhere.com
 
 ( Click the link read as 'Autos CRUD')
 
+The UI needs more effort though !! 
 
+From today on, I have started working on a similar application as 'autos CRUD'. It's called 'cats CRUD'. 
 
 Reference: 
 
