@@ -28,6 +28,7 @@ Assignment Statement :
 https://www.dj4e.com/assn/dj4e_hello.md?PHPSESSID=c5621ea2ef6114c2156700baa84235e7 
 
 
+
 **THINGS GOT UPDATED(21.11.21)
 *I was given an assignment
 Assignment details : 
@@ -35,6 +36,15 @@ Assignment details :
 https://www.dj4e.com/assn/dj4e_autos.md
 
 So, I'm currently working on this one !! ( It would take some time ! )
+
+**THINGS GOT UPDATED(26.12.21)
+I have finished working on the autos application.
+It is a basic application of data adding to a database, viewing the data, updating and deleting the data from the database. 
+
+This is the final outcome : 
+
+kaustav1.pythonanywhere.com/ ( Click the link read as 'Autos CRUD')
+
 
 
 Reference: 
