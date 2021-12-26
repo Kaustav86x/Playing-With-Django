@@ -43,7 +43,7 @@ It is a basic application of data adding to a database, viewing the data, updati
 
 This is the final outcome : 
 
-kaustav1.pythonanywhere.com/ ( Click the link read as 'Autos CRUD')
+kaustav1.pythonanywhere.com    ( Click the link read as 'Autos CRUD')
 
 
 
