@@ -1,13 +1,23 @@
 {% extends "base_bootstrap.html" %}
 
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'autos/makef.css' %}" >
+
 {% block content %}
-<!--<h1>Enter a make</h1>-->
+<h1>Enter a make</h1>
 <form action="" method="POST">
     {% csrf_token %}
-    <table>
-        {{ form.as_table }}
+    <!--<table>-->
+    <!--    {{ form.as_table }}-->
+    <!--</table>-->
+    <table class="makeform">
+        <!--<li id="name" class="make">{{ form.name }}</li>-->
+        <!--<p>Make : <input class="make" type="text" name="make" id="make" placeholder="Enter a make" required></p>-->
+        <!-- will not work cuz "form.name" is not specified -->
+        <p id="name" class="make" name="make" placeholder="Enter a make" required>{{ form.name }}</p>
+        <!--<button type="button" class="btn btn-outline-success" type="submit" value="Submit">submit</button>-->
+        <input type="submit" class="sub-butt" value="Submit">
+        <input type="submit" class="can-butt" onclick="window.location='{%url 'autos:all' %}' ; return false;" value="Cancel">
     </table>
-    <input type="submit" value="Submit">
-    <input type="submit" onclick="window.location='{%url 'autos:all' %}' ; return false;" value="Cancel">
 </form>
 {% endblock %}
