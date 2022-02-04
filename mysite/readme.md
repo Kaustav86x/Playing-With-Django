@@ -56,5 +56,17 @@ Reference:
 1) https://www.coursera.org/specializations/django? (Django for everybody (Coursera) )
 
 2) https://youtu.be/o0XbHvKxw7Y (Django for everybody (YouTube) )
+
+
+
+**THINGS GOT UPDATED(5.2.22)
+I was working on an application named "ads"....for which as per the requirements, I had to change the settings of my "mysite" app. 
+So, I am not going to commit anything here...as it would definitly hamper my other applications. 
+
+Here is the link of a github repository where the application have been constructed : 
+
+https://github.com/saksham1991999/django-for-everybody-specialization/tree/master/Django%20Features%20and%20Libraries/Week%205/dj4e/ads
+
+My application is exactly as same as this one. 
            
  
